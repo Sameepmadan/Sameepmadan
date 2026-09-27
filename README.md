@@ -1,6 +1,9 @@
 # 💫 Hi 👋, I'm Sameep Madan
 
 **Data Analyst | Power BI & SQL | B.Tech CSE (AI Specialization) Student**
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="1000">
+<br><br>
 
 📫 Reach me at 👉 ✉️ **sameepmadan5@gmail.com**
 
@@ -12,6 +15,9 @@
 - ⚡ **Fun fact:** I'd rather find the story hiding in a spreadsheet than read one written down
 
 ---
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+<br><br>
 
 ## 💼 Professional Experience
 
